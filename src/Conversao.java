@@ -6,7 +6,8 @@ public class Conversao {
 	 * será sempre atualizada para todos
 	 * os pontos em que é utilizada.
 	 */
-	static double USD = 5.17;
+	static double USD;
+	static double EUR;
 	double valor;
 	
 	/**
